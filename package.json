@@ -5,6 +5,7 @@
   "main": "dist/mjml.js",
   "scripts": {
     "build": "webpack",
+    "install": "git submodule init && git submodule update && npm run build",
     "watch": "webpack --watch"
   },
   "repository": {
