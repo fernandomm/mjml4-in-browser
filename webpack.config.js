@@ -60,7 +60,7 @@ module.exports = {
                             presets: [
                                 ['env', {
                                     targets: {
-                                        "chrome": "58",
+                                        "chrome": "29",
                                         "edge": "15",
                                         "firefox": "55",
                                         "ios": "10"
