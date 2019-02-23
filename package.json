@@ -6,7 +6,6 @@
   "scripts": {
     "build": "webpack",
     "preinstall": "git submodule update --init",
-    "install": "npm run build",
     "watch": "webpack --watch"
   },
   "repository": {
